@@ -1,4 +1,4 @@
-default_hostname: 192.168.0.111
-default_port: '9027'
-default_save_location: /home/msyafiqakmal/Pictures/Scanned Documents/scanimage.png
+default_hostname: ''
+default_port: ''
+default_save_location: ''
 default_username: msyafiqakmal
